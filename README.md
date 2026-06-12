@@ -15,7 +15,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lfpast&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lfpast&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lfpast&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
