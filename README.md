@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working in an undergraduate research group<br>👯 I’m looking to collaborate on Visual-Enhanced LM Training<br>🤝 I’m looking for help with Visual Instruction Partner<br>🌱 I’m currently learning diffusion visual reconstruction
+🔭 I’m currently working in 3D feature reconstruction and 3D scene understanding<br>
+👯 I’m looking to collaborate on Vision-Language-Action(VLA) model and World-Action-Model(WAM)<br>
+🤝 I’m looking for professors' groups which align semantic and geometry space to solve real-world tasks<br>
+🌱 I’m currently learning Physical World Model
 
 
 ## 🌐 Socials:
